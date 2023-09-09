@@ -1,4 +1,6 @@
-# React + Vite
+THIS IS MY PORTFOLIO WEBSITE:
+
+i use react and vite for making this complete.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
